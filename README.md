@@ -1,4 +1,4 @@
-# projectsign board classification system
+# Road Mark AI spotter
 
 It is machine learning project. The aim of this project is to build a model for identifying the road sign board and recognise it and give alert to the vehicle driver.
 I have trained the model using CNN algorithm .
